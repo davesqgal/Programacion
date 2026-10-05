@@ -19,6 +19,6 @@ public class TaulaMultiplicar {
             System.out.println(contador + "x" + taula + "= " + multi);
             
         }
-
+        sc.close();
     }
 }

@@ -18,6 +18,6 @@ public class AnyTraspas {
     } else {
         System.out.println("L'any " + any + " no és any traspàs.");
     }
-    
+    sc.close();
     }
 }

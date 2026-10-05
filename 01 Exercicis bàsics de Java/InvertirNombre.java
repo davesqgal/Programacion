@@ -21,5 +21,6 @@ public class InvertirNombre {
             numero = numero / 10;
         }
         System.out.println("La inversió del dígits " + primernum + " es: " + newnumber);
+        sc.close();
     }
 }

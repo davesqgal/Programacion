@@ -18,6 +18,6 @@ public class SumaParells {
         }
         System.out.println("La suma dels parells de " + numero + " es: " + suma);
 
+        sc.close();
     }
-
 }

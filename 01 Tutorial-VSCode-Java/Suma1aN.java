@@ -19,5 +19,7 @@ public class Suma1aN {
             suma = suma + i;
             }
         System.out.println("La suma de 1 a " + numero + " es: " + suma);
+
+        sc.close();      
     }
 }

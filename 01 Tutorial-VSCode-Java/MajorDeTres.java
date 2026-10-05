@@ -31,6 +31,7 @@ public class MajorDeTres {
         } else {
             System.out.println("El major del tres es el tercer número: " + numero3);
         }
+        sc.close();
     }
 }
 

@@ -17,7 +17,7 @@ public class Signe {
         } else {
             System.out.println( "El número es zero.");
         }
-
+        sc.close();
     }
 
 }

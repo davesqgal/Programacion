@@ -20,7 +20,7 @@ public class MajorDos {
         } else {
             System.out.println(primer + " i " + segon + " son iguals.");
         }
-
+    sc.close();
     }
 
 }

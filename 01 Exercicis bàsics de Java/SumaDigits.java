@@ -22,5 +22,6 @@ public class SumaDigits {
         
         System.out.print("La suma del digits de " + numinicial + " es: " + suma);
 
+        sc.close();
     }
 }

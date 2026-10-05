@@ -17,6 +17,6 @@ public class SumaDos {
             
         System.out.println("La suma es: " + suma);
 
+        sc.close();
         }
-    
 }

@@ -23,7 +23,7 @@ public class AreaCercle {
         // El 2 definix quants digits mostrar tras la coma
         // La f asenyala el tipus de dat, float en aquest cas
         System.out.printf("%.2f", area);
-
+        sc.close();
     }
 
 }

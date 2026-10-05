@@ -11,7 +11,7 @@ public class Primer {
         System.out.print("Quin número positiu vols saber si és primer? ");
         int numero = sc.nextInt();
 
-
+        sc.close();
         /* Comprovació si el número es primer
         Primer comprobem si no es menor o igual a 1
         Després que no siga 2, y dque no siga divisible per dos
@@ -34,5 +34,6 @@ public class Primer {
             }
             System.out.println("El número " + numero + " es primer.");
         }
+        
     }
 }

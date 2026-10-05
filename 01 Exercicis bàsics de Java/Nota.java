@@ -21,7 +21,7 @@ public class Nota {
         } else {
             System.out.println("Enhorabona!, tens una nota excel·lent!");
         }
-
+        sc.close();
     }
 
 }

@@ -21,6 +21,6 @@ public class ParellSenar {
         } else {
             System.out.println("Aquest número es senar.");
         }
-        
+        sc.close();
     }
 }

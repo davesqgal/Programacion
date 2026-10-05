@@ -26,6 +26,6 @@ public class Mitjana {
         // Creem un missatge en consola amb el resultat obtingut.
         System.out.println("La mitjana és: " + mitjana);
 
+        sc.close();
     }
-
 }

@@ -22,6 +22,6 @@ public class TaulaMultiplicarAmbWhile {
             contador ++;
             
         }
-
+        sc.close();
     }
 }

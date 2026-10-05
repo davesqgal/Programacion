@@ -26,6 +26,7 @@ public class Recompte {
         System.out.println("Has escrit " + negatiu + " números negatius.");
         int total = positiu + negatiu;
         System.out.println("Total de números introduits: " + total);
+        
+        sc.close();
     }
-
 }
